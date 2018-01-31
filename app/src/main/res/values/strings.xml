@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eyepetizer</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
